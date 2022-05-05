@@ -1,0 +1,26 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-image: url(./assets/images/pokertable.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016F32;
+    width: 150px;
+    background: goldenrod;
+}
